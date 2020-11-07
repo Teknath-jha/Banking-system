@@ -1,6 +1,6 @@
 /*
-
-this is a project is mostly focused on OOPs concept using C++ language
+Mini project -2 Based on Object Oriented Concepts using c++
+This  project is mostly focused on OOPs concept using C++ language
 
 */
 
